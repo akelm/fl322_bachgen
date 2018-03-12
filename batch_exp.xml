@@ -1,0 +1,11 @@
+﻿    <BatchOp>
+      <ExperimentFile FileName="D:\akelm\tesst_280x600_6x660_1x7\tesst_338.xml"/>
+      <BatchIndex IndexNumber="31"/>
+      <Delays DelayBeforeFirst="0" DelayBetweenEach="0"/>
+      <Repeats TotalNumOfRepeats="1">
+        <Repeat>
+          <Index IndexNumber="1"/>
+          <ParamChanges/>
+        </Repeat>
+      </Repeats>
+    </BatchOp>
